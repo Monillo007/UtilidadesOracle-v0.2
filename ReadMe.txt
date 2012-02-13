@@ -1,7 +1,10 @@
-Utilidades Oracle v0.2
+Utilidades Oracle v0.2 
+author: Ing. Luis Navarro
+IDE: NetBeans 7.1
+url: none
 
 Proyecto en NetBeans para:
   * Mapeo de bases de datos Oracle hacia clases Java.
-  * Generación de formularios (jsp,javascript)
-  * Generación de secuencias
-  * Generación de bitácoras (triggers, secuencias)
+  * Generaciï¿½n de formularios (jsp,javascript)
+  * Generaciï¿½n de secuencias
+  * Generaciï¿½n de bitï¿½coras (triggers, secuencias)
